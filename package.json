@@ -9,6 +9,7 @@
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.4",
     "@types/react-icons": "^3.0.0",
+    "@types/react-modal": "^3.13.1",
     "@types/react-router-dom": "^5.3.3",
     "@types/styled-components": "^5.1.25",
     "@unform/core": "^2.1.6",
