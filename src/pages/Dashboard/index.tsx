@@ -82,7 +82,7 @@ export default function Dashboard(){
   }
 
   const toggleEditModal = () => {
-    setEditModalOpen(editModalOpen);
+    setEditModalOpen(!editModalOpen);
   }
 
   const handleEditFood = (food: JustFoodProps) => {
